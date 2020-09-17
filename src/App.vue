@@ -1,6 +1,8 @@
 <template>
   <div id="app">
     <img alt="Vue logo" src="./assets/logo.png" width="25%">
+    <img alt="Vue logo" src="./assets/logo.png" width="25%">
+    <h1>Hello World</h1>
     <HelloWorld msg="Hello Vue in CodeSandbox!"/>
   </div>
 </template>
